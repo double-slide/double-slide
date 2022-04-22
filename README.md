@@ -4,5 +4,6 @@ Professional engineer and aspiring web developer who likes to recreate in the ba
 ## More links:
 * [LinkedIn](https://www.linkedin.com/in/iaanjohnston/)
 * [GitHub Repositories](https://github.com/double-slide?tab=repositories)
+* [Instagram](https://www.instagram.com/builtandrepaired/)
 
-Come back soon for more info or [email me](mailto:iaan.ed.john@gmail.com) directly 👋
+Feel free to explore my work here or [email me](mailto:iaan.ed.john@gmail.com) directly 👋
