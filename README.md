@@ -1,9 +1,10 @@
 ## About me:
-Professional engineer and aspiring web developer who likes to recreate in the backcountry. Currently enjoying student life in the Lighthouse Labs web development program. Ask me about ski touring or sewing DIY bicycle gear!
+Full stack web developer, pivoting from 9 years of mechanical engineering. Experience leading multi-discipline teams, and taking projects from concept to completion.
 
 ## More links:
 * [LinkedIn](https://www.linkedin.com/in/iaanjohnston/)
 * [GitHub Repositories](https://github.com/double-slide?tab=repositories)
-* [Instagram](https://www.instagram.com/builtandrepaired/)
+* [Focal Project] (http://www.focal-project.ca)
+
 
 Feel free to explore my work here or [email me](mailto:iaan.ed.john@gmail.com) directly 👋
