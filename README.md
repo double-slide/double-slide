@@ -1,5 +1,6 @@
 ## About me:
-Full stack web developer, pivoting from 9 years of mechanical engineering. Experience leading multi-discipline teams, and taking projects from concept to completion.
+Web Developer with a background in mechanical engineering.
+Linux | JavaScript | React | SQL | Node | Express | Cypress
 
 ## More links:
 * [LinkedIn](https://www.linkedin.com/in/iaanjohnston/)
@@ -7,4 +8,4 @@ Full stack web developer, pivoting from 9 years of mechanical engineering. Exper
 * [Focal Project](http://www.focal-project.ca)
 
 
-Feel free to explore my work here or [email me](mailto:iaan.ed.john@gmail.com) directly 👋
+Feel free to explore my work here or [email me](mailto:iaan.e.jo@gmail.com) directly 👋
