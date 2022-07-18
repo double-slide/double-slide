@@ -1,21 +1,5 @@
-## About
-Hi, I’m Iaan. I’m a developer with front-end and back-end skills.
-
-My previous career as a mechanical engineer brought me close to my current passion: creating web applications. My experience working in cross-discipline teams taught me how to quickly translate technical jargon into language that is accessible for others.
-
-As an engineer, I’ve always been keen to design products that are easy to use, and easy to service. This philosophy still holds true – I now strive to create quality software experiences for users, and maintainable code for other developers.
-
-During my degree, I used languages like Matlab and C++ to perform calculations. As a working engineer, I used Python, VBA and Matlab to automate tasks and process data.
-
-More recently through my web development diploma, I have delivered projects using JavaScript, React, SQL, Node, Express, Ruby, and Rails.
-
-I enjoy collaborating with enthusiastic people, and leveraging technology to create new things!
-
-<br>
-<!-- <br> -->
-
 ## Contact
-Feel free to explore my work here or [email me](mailto:iaan.e.jo@gmail.com) directly 👋
+Feel free to explore my open work here or [email me](mailto:iaan.e.jo@gmail.com) directly 👋
 
 <br>
 <!-- <br> -->
